@@ -1,0 +1,4 @@
+name: HookShot
+version: '${project.version}'
+main: rilyabyss.hookshot.HookShot
+api-version: 1.17
